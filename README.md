@@ -19,5 +19,5 @@ gcc atm.c -o atm
 2. Run the program
 ./atm
 
-## Author
-Sherina
+### Author
+Raja Sherina
