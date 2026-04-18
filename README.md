@@ -1,4 +1,4 @@
-# ATM Machine Simulation in C
+# ATM Machine Simulation 
 
 This project simulates a basic ATM system using C programming.
 
